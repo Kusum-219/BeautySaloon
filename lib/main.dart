@@ -24,7 +24,7 @@ class myApp extends StatelessWidget {
           ),
           child: Column(
             children: [
-              SizedBox(height: 15 ,),
+              SizedBox(height: 14 ,),
               CircleAvatar(
                 backgroundImage: AssetImage("assets/images/black saloon logo.jpg"),
              radius: 100,
