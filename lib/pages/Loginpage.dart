@@ -6,12 +6,12 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+
       body: Container(
 
         width: double.infinity,
 
         decoration: BoxDecoration(
-
           gradient: LinearGradient(begin: Alignment.topCenter, colors: [
             Colors.cyan[600],
             Colors.cyan[500],
@@ -23,31 +23,33 @@ class Login extends StatelessWidget {
         ),
 
         child: Column(
-
           children: <Widget>[
+
             SizedBox(height: 7,),
             CircleAvatar(
               backgroundImage: AssetImage("assets/images/login man.png"),
               foregroundColor: Colors.white70,
               radius: 70,
             ),
-            Text("Log in",style: GoogleFonts.pacifico(
+            Text("Log in",style: GoogleFonts.leckerliOne(
               fontSize: 30,
-              fontWeight: FontWeight.bold
+              fontWeight: FontWeight.w400
             ),
             ),
             SizedBox(
-              height: 30,
+              height: 10,
             ),
             Expanded(
               child: Container(
+               // color: Colors.grey,
                 child: Column(
+
                   children: [
                     SizedBox(
-                      height: 8,
+                      height: 12,
                     ),
                     Padding(
-                      padding: const EdgeInsets.all(26.0),
+                      padding: const EdgeInsets.all(19.0),
                       child: TextField(
                         style: GoogleFonts.comfortaa(
                           fontSize: 15,
@@ -60,11 +62,8 @@ class Login extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(
-                      height:2,
-                    ),
                     Padding(
-                      padding: const EdgeInsets.all(26.0),
+                      padding: const EdgeInsets.all(19.0),
                       child: TextField(
                         obscureText: true,
                         style: GoogleFonts.comfortaa(
@@ -123,8 +122,8 @@ class Login extends StatelessWidget {
                 decoration: BoxDecoration(
                     color: Colors.grey[50],
                     borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(60),
-                      topRight: Radius.circular(60),
+                      topLeft: Radius.circular(40),
+                      topRight: Radius.circular(40),
                     )),
               ),
             ),

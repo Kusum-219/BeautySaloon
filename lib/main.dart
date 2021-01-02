@@ -24,17 +24,17 @@ class myApp extends StatelessWidget {
           ),
           child: Column(
             children: [
-              SizedBox(height: 14 ,),
+              SizedBox(height: 10 ,),
               CircleAvatar(
                 backgroundImage: AssetImage("assets/images/black saloon logo.jpg"),
              radius: 100,
               ),
-              SizedBox(height: 8 ,),
+              SizedBox(height: 14 ,),
                Text("We'l l Style\n You'l l Smile!",
                textAlign: TextAlign.center,
                style: GoogleFonts.cabin(
                  color: Colors.grey,
-                 fontSize: 30,
+                 fontSize: 38,
                  fontWeight: FontWeight.bold,
                ),
              ),
