@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -16,25 +19,89 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05857874-b1f7-4d8e-8d23-522c47dcd42c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/pages/Dashboard.dart" afterDir="false" />
+    <list default="true" id="05857874-b1f7-4d8e-8d23-522c47dcd42c" name="Default Changelist" comment="3rd commit &#10;skin care splash screen">
+      <change afterPath="$PROJECT_DIR$/assets/images/Bckground 2 golden yellow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/aloe-vera-gel- background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/backgroumd golden black 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/face 5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/face care 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/face care 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/face care 4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/face care quote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gold and black background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hai care 3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hair care 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hair care 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hair cut 6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/haircare 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/haircolor2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/haircolor3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/haircolor4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/haircolor5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hand care 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hand care 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hand care 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/makeup 2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/makeup1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/makeup3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/makeup4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/natural beauty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/Eye Care.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/Haircare.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/face care.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/hand care.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/preferences" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/app.dill.deps" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/app.dill.deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/dart2js.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/dart2js.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/dart2js.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/dart2js.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/main.dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/main.dart.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/main.dart.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/outputs.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/outputs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/service_worker.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/service_worker.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/web_release_bundle.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/web_release_bundle.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/web_service_worker.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/cf672e6571797d07051d5881f9f400aa/web_service_worker.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BeautySaloon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BeautySaloon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/24-240629_black-hair-clipart-beauty-parlour-beauty-salon-png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background log in image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background-hairdresser log in.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hair-saloon-logo-with-a-brush.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/images/24-240629_black-hair-clipart-beauty-parlour-beauty-salon-png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/images/background%20image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/images/background%20log%20in%20image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/images/background-hairdresser%20log%20in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/images/hair-saloon-logo-with-a-brush.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/main.dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/main.dart.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/main.dart.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/Dashboard.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/Loginpage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -46,6 +113,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mPdGhSqjNDiqGxNwVFFGbLJPSG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,10 +123,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
-    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -102,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609602799589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit&#10;changes done in ist page font size of text">
+      <created>1609671923895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609671923895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +188,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -120,56 +210,90 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second commit&#10;changes done in ist page font size of text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit&#10;changes done in ist page font size of text" />
+    <MESSAGE value="3rd commit &#10;skin care splash screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit &#10;skin care splash screen" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="51" key="AndroidProcessChooserDialog" timestamp="1609602038063">
+    <state x="214" y="106" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609829527505">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="330" y="51" key="AndroidProcessChooserDialog/0.0.1024.600@0.0.1024.600" timestamp="1609602038063" />
-    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1609602796229">
+    <state x="214" y="106" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.600@0.0.1024.600" timestamp="1609829527505" />
+    <state x="243" y="51" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610688838106">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1024.600@0.0.1024.600" timestamp="1609602796229" />
+    <state x="243" y="51" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.600@0.0.1024.600" timestamp="1610688838106" />
+    <state x="330" y="51" key="AndroidProcessChooserDialog" timestamp="1610090879523">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="330" y="51" key="AndroidProcessChooserDialog/0.0.1024.600@0.0.1024.600" timestamp="1610090879523" />
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1610784166382">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1024.600@0.0.1024.600" timestamp="1610784166382" />
     <state x="108" y="116" width="808" height="376" key="DiffContextDialog" timestamp="1609602658389">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
     <state x="108" y="116" width="808" height="376" key="DiffContextDialog/0.0.1024.600@0.0.1024.600" timestamp="1609602658389" />
-    <state x="293" y="55" key="FileChooserDialogImpl" timestamp="1609399239923">
+    <state x="293" y="55" key="FileChooserDialogImpl" timestamp="1610702434026">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="293" y="55" key="FileChooserDialogImpl/0.0.1024.600@0.0.1024.600" timestamp="1609399239923" />
-    <state width="948" height="219" key="GridCell.Tab.0.bottom" timestamp="1609671491405">
+    <state x="293" y="55" key="FileChooserDialogImpl/0.0.1024.600@0.0.1024.600" timestamp="1610702434026" />
+    <state width="979" height="59" key="GridCell.Tab.0.bottom" timestamp="1610703542944">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state width="948" height="219" key="GridCell.Tab.0.bottom/0.0.1024.600@0.0.1024.600" timestamp="1609671491405" />
-    <state width="948" height="219" key="GridCell.Tab.0.center" timestamp="1609671491404">
+    <state width="979" height="59" key="GridCell.Tab.0.bottom/0.0.1024.600@0.0.1024.600" timestamp="1610703542944" />
+    <state width="979" height="59" key="GridCell.Tab.0.center" timestamp="1610703542944">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state width="948" height="219" key="GridCell.Tab.0.center/0.0.1024.600@0.0.1024.600" timestamp="1609671491404" />
-    <state width="948" height="219" key="GridCell.Tab.0.left" timestamp="1609671491404">
+    <state width="979" height="59" key="GridCell.Tab.0.center/0.0.1024.600@0.0.1024.600" timestamp="1610703542944" />
+    <state width="979" height="59" key="GridCell.Tab.0.left" timestamp="1610703542944">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state width="948" height="219" key="GridCell.Tab.0.left/0.0.1024.600@0.0.1024.600" timestamp="1609671491404" />
-    <state width="948" height="219" key="GridCell.Tab.0.right" timestamp="1609671491404">
+    <state width="979" height="59" key="GridCell.Tab.0.left/0.0.1024.600@0.0.1024.600" timestamp="1610703542944" />
+    <state width="979" height="59" key="GridCell.Tab.0.right" timestamp="1610703542944">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state width="948" height="219" key="GridCell.Tab.0.right/0.0.1024.600@0.0.1024.600" timestamp="1609671491404" />
-    <state x="251" y="6" key="RollbackChangesDialog" timestamp="1609668604745">
+    <state width="979" height="59" key="GridCell.Tab.0.right/0.0.1024.600@0.0.1024.600" timestamp="1610703542944" />
+    <state x="251" y="6" key="RollbackChangesDialog" timestamp="1610091057892">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="251" y="6" key="RollbackChangesDialog/0.0.1024.600@0.0.1024.600" timestamp="1609668604745" />
-    <state x="21" y="0" key="SettingsEditor" timestamp="1609399279651">
+    <state x="251" y="6" key="RollbackChangesDialog/0.0.1024.600@0.0.1024.600" timestamp="1610091057892" />
+    <state x="21" y="0" key="SettingsEditor" timestamp="1610702886362">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="21" y="0" key="SettingsEditor/0.0.1024.600@0.0.1024.600" timestamp="1609399279651" />
-    <state x="105" y="20" key="Vcs.Push.Dialog.v2" timestamp="1609600695255">
+    <state x="21" y="0" key="SettingsEditor/0.0.1024.600@0.0.1024.600" timestamp="1610702886362" />
+    <state x="105" y="20" key="Vcs.Push.Dialog.v2" timestamp="1609671930162">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="105" y="20" key="Vcs.Push.Dialog.v2/0.0.1024.600@0.0.1024.600" timestamp="1609600695255" />
-    <state x="322" y="218" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609602273268">
+    <state x="105" y="20" key="Vcs.Push.Dialog.v2/0.0.1024.600@0.0.1024.600" timestamp="1609671930162" />
+    <state x="322" y="218" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610697607926">
       <screen x="0" y="0" width="1024" height="600" />
     </state>
-    <state x="322" y="218" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.600@0.0.1024.600" timestamp="1609602273268" />
+    <state x="322" y="218" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.600@0.0.1024.600" timestamp="1610697607926" />
+    <state x="175" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1610084772920">
+      <screen x="0" y="0" width="1024" height="600" />
+    </state>
+    <state x="175" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1024.600@0.0.1024.600" timestamp="1610084772920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/pages/Haircare.dart</url>
+          <line>79</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
